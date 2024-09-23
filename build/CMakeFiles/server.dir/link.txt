@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/server.dir/src/server.c.o -o server   -L/usr/local/Cellar/zeromq/4.3.5_1/lib  -Wl,-rpath,/usr/local/Cellar/zeromq/4.3.5_1/lib -lzmq

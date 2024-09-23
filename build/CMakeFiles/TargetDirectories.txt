@@ -1,0 +1,4 @@
+/Users/maxvyatkin/Documents/lab/4 курс (1 год до жизни)/mobile/build/CMakeFiles/server.dir
+/Users/maxvyatkin/Documents/lab/4 курс (1 год до жизни)/mobile/build/CMakeFiles/client.dir
+/Users/maxvyatkin/Documents/lab/4 курс (1 год до жизни)/mobile/build/CMakeFiles/edit_cache.dir
+/Users/maxvyatkin/Documents/lab/4 курс (1 год до жизни)/mobile/build/CMakeFiles/rebuild_cache.dir
